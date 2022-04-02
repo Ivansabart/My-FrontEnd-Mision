@@ -1,6 +1,5 @@
 # My-FrontEnd-Mision 
 My answers from FrontEnd practices repository
-
 # Toma de requerimientos
 El diagrama de modelo de proceso de negocio se realizó en https://bpmn.io/
 # Crea tu buyer persona
@@ -11,3 +10,7 @@ Se utilizo la plantilla proporcionada de Miro con las categorias de demografia, 
 Se utilizo la herramienta Miro https://miro.com/
 # Ahora el UI
 Se realizo con https://www.figma.com
+# Otros Proyectos de FrontEnd Mision:
+[Pastelería](https://github.com/Ivansabart/Pasteler-a)
+[Vaccination](https://github.com/Ivansabart/Vaccination)
+[Pokedex](https://github.com/Ivansabart/pokedex)
