@@ -11,6 +11,8 @@ Se utilizo la herramienta Miro https://miro.com/
 # Ahora el UI
 Se realizo con https://www.figma.com
 # Otros Proyectos de FrontEnd Mision:
-[Pastelería](https://github.com/Ivansabart/Pasteler-a)...
-... [Vaccination](https://github.com/Ivansabart/Vaccination)...
-... [Pokedex](https://github.com/Ivansabart/pokedex)
+[Pastelería](https://github.com/Ivansabart/Pasteler-a)
+
+[Vaccination](https://github.com/Ivansabart/Vaccination)
+
+[Pokedex](https://github.com/Ivansabart/pokedex)
